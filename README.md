@@ -9,8 +9,7 @@
 - 📫 How to reach me: You can't reach me sadly. :(
 - 😄 Pronouns: She/They
 - ⚡ Fun fact: I'm transgender!
--->
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Sparmage's GitHub Stats" src="https://github-readme-stats.sparmage.vercel.app/api?username=Sparmage&show_icons=true&hide_border=true" />
+  [![Sparmage's github stats](https://github-readme-stats.vercel.app/api?username=sparmage)]
