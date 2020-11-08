@@ -4,7 +4,7 @@
 ## I'm a javascript dev!
 
 
-- 🔭 I’m currently working on YDev c2!
+- 🔭 I’m currently working on YDev v2!
 - 🌱 I’m currently learning c++!
 - 📫 How to reach me: You can't reach me sadly. :(
 - 😄 Pronouns: She/They
