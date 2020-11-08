@@ -12,4 +12,4 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  [![Sparmage's github stats](https://github-readme-stats.vercel.app/api?username=sparmage)]
+  [![Sparmage's github stats](https://github-readme-stats.vercel.app/api?username=sparmage)
