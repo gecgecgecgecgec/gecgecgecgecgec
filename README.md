@@ -1,7 +1,7 @@
 ### Hi there, I'm Sparmage!
 
 
-## I'm a javascript dev!
+## I'm a mainly a javascript dev, but I do know other coding languages! 
 
 
 - 🔭 I’m currently working on YDev v2!
