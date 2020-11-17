@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning c++!
 - 📫 How to reach me: You can't reach me sadly. :(
 - 😄 Pronouns: She/They
-- ⚡ Fun fact: I'm transgender!
+- ⚡ Fun facts: I'm transgender! I have also worked on cheats before (this is when I was learning basic c++).
 <details>
   <summary>:zap: GitHub Stats</summary>
 
