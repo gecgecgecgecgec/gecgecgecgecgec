@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **YDev v2!**
 
-- 🌱 I’m currently learning **c++**
+- 🌱 I’m currently learning **German!**
 
 - 😄 Pronouns: **She/they**
 
