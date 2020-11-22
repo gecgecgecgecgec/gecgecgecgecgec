@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sparmage" alt="sparmage" /></a> </p>
 
-- 🔭 I’m currently working on **YDev v2!**
+- 🔭 I’m currently working on **YDev**
 
-- 🌱 I’m currently learning **German!**
+- 🌱 I’m currently learning **c++**
 
 - 😄 Pronouns: **She/they**
 
