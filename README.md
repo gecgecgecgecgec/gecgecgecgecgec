@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **c++**
 
-- 😄 Pronouns: **She/they**
+- 😄 Pronouns: **They/the,**
 
 - 📫 How to reach me **You can't reach me sadly. :(**
 
-- ⚡ Fun fact **I'm transgender! I have also worked on cheats before (this is when I was learning basic c++).**
+- ⚡ Fun fact **I'm GenderFluid! I have also worked on cheats before (this is when I was learning basic c++).**
 
 
 <h3 align="left">Languages and Tools:</h3>
