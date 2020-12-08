@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **c++**
 
-- 😄 Pronouns: **They/the,**
+- 😄 Pronouns: **They/them**
 
 - 📫 How to reach me **You can't reach me sadly. :(**
 
