@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sparmage</h1>
-<h3 align="center">I'm a mainly a javascript dev, but I do know other coding languages!</h3>
+<h3 align="center">I'm a mainly a c# dev, but I do know other coding languages!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sparmage&label=Profile%20views&color=c01111&style=flat" alt="sparmage" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Node.js!**
 
-- 😄 Pronouns: **They/Them**
+- 😄 Pronouns: **She/Her**
 
 - 📫 How to reach me **You can't reach me sadly. :(**
 
