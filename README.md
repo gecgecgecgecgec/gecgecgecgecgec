@@ -1,19 +1,17 @@
 <h1 align="center">Hi 👋, I'm Sparmage</h1>
-<h3 align="center">I'm a mainly a c# dev, but I do know other coding languages!</h3>
+<h3 align="center">I'm a mainly a JS and LUA (shit language but eh) dev, but I do know other coding languages!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sparmage&label=Profile%20views&color=c01111&style=flat" alt="sparmage" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sparmage" alt="sparmage" /></a> </p>
 
-- 🔭 I’m currently working on **Phobos++!**
+- 🔭 I’m currently working on **nothing lol**
 
-- 🌱 I’m currently learning more **Java!**
+- 🌱 I’m currently learning more **why tf do you care**
 
-- 😄 Pronouns: **She/Her**
+- 📫 How to reach me **u can i just dont really give a fuck**
 
-- 📫 How to reach me **You can't reach me sadly. :(**
-
-- ⚡ Fun fact **I'm GenderFluid! I have also worked on cheats before (this is when I was learning basic c++).**
+- ⚡ Fun fact **I hate all of you :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
