@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sparmage</h1>
-<h3 align="center">I'm a mainly a JS and LUA dev, but I do know other coding languages!</h3>
+<h3 align="center">I'm a mainly a Java, but I do know other coding languages!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sparmage&label=Profile%20views&color=c01111&style=flat" alt="sparmage" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sparmage" alt="sparmage" /></a> </p>
 
-- 🔭 I’m currently working on **modding ue4 games**
+- 🔭 I’m currently working on **allah client**
 
-- 🌱 I’m currently learning more **how to mod ue4 games**
+- 🌱 I’m currently learning more **nothing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
