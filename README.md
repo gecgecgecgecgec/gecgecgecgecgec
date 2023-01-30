@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sparmage/Twui :)</h1>
+<h1 align="center">Hi 👋, I'm Sparmage :)</h1>
 <h3 align="center">I'm a mainly a Java, but I do know other coding languages! I sometimes make anticheat bypasses.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sparmage&label=Profile%20views&color=c01111&style=flat" alt="sparmage" /> </p>
@@ -11,8 +11,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/athena_terrain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="athenaterrain" height="30" width="40" /></a>
-<a href="https://discord.gg/XjFC7zNk9D" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="XjFC7zNk9D" height="30" width="40" /></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sparmage&show_icons=true&theme=dark&locale=en&layout=compact" alt="sparmage" /></p>
